@@ -33,7 +33,7 @@ then
 echo Remember to take a break!
 echo You are doing great!!
 sleep 15
-
+fi
 echo Good $greet, $(whoami)
 echo $day
 echo $time
@@ -42,6 +42,4 @@ sleep 5
 
 
 clear
-fi
 done
-
