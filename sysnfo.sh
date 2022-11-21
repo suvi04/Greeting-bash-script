@@ -42,5 +42,6 @@ sleep 5
 
 
 clear
+fi
 done
 
